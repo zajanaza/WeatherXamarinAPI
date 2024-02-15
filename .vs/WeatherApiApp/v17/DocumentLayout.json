@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jana\\moje\\programovani\\v\u00FDuka\\Xamarin\\WeatherApiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4AF75D-522E-4566-A390-F7C65A22144C}|WeatherApiApp\\WeatherApiApp.csproj|c:\\users\\jana\\moje\\programovani\\v\u00FDuka\\xamarin\\weatherapiapp\\weatherapiapp\\citiesactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4AF75D-522E-4566-A390-F7C65A22144C}|WeatherApiApp\\WeatherApiApp.csproj|solutionrelative:weatherapiapp\\citiesactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE9F84F-BFE2-43DA-994D-6A2BA24E8452}|Shared\\Shared.csproj|c:\\users\\jana\\moje\\programovani\\v\u00FDuka\\xamarin\\weatherapiapp\\shared\\iweatherview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE9F84F-BFE2-43DA-994D-6A2BA24E8452}|Shared\\Shared.csproj|solutionrelative:shared\\iweatherview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE9F84F-BFE2-43DA-994D-6A2BA24E8452}|Shared\\Shared.csproj|c:\\users\\jana\\moje\\programovani\\v\u00FDuka\\xamarin\\weatherapiapp\\shared\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE9F84F-BFE2-43DA-994D-6A2BA24E8452}|Shared\\Shared.csproj|solutionrelative:shared\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4AF75D-522E-4566-A390-F7C65A22144C}|WeatherApiApp\\WeatherApiApp.csproj|C:\\Users\\Jana\\moje\\programovani\\v\u00FDuka\\Xamarin\\WeatherApiApp\\WeatherApiApp\\Resources\\layout\\cities_layout.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{0E4AF75D-522E-4566-A390-F7C65A22144C}|WeatherApiApp\\WeatherApiApp.csproj|solutionrelative:WeatherApiApp\\Resources\\layout\\cities_layout.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE9F84F-BFE2-43DA-994D-6A2BA24E8452}|Shared\\Shared.csproj|c:\\users\\jana\\moje\\programovani\\v\u00FDuka\\xamarin\\weatherapiapp\\shared\\weathermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE9F84F-BFE2-43DA-994D-6A2BA24E8452}|Shared\\Shared.csproj|solutionrelative:shared\\weathermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4AF75D-522E-4566-A390-F7C65A22144C}|WeatherApiApp\\WeatherApiApp.csproj|C:\\Users\\Jana\\moje\\programovani\\v\u00FDuka\\Xamarin\\WeatherApiApp\\WeatherApiApp\\MainActivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4AF75D-522E-4566-A390-F7C65A22144C}|WeatherApiApp\\WeatherApiApp.csproj|solutionrelative:WeatherApiApp\\MainActivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4AF75D-522E-4566-A390-F7C65A22144C}|WeatherApiApp\\WeatherApiApp.csproj|C:\\Users\\Jana\\moje\\programovani\\v\u00FDuka\\Xamarin\\WeatherApiApp\\WeatherApiApp\\Resources\\values\\strings.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E4AF75D-522E-4566-A390-F7C65A22144C}|WeatherApiApp\\WeatherApiApp.csproj|solutionrelative:WeatherApiApp\\Resources\\values\\strings.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IWeatherView.cs",
+              "DocumentMoniker": "C:\\Users\\Jana\\moje\\programovani\\v\u00FDuka\\Xamarin\\WeatherApiApp\\Shared\\IWeatherView.cs",
+              "RelativeDocumentMoniker": "Shared\\IWeatherView.cs",
+              "ToolTip": "C:\\Users\\Jana\\moje\\programovani\\v\u00FDuka\\Xamarin\\WeatherApiApp\\Shared\\IWeatherView.cs",
+              "RelativeToolTip": "Shared\\IWeatherView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T14:10:04.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\Jana\\moje\\programovani\\v\u00FDuka\\Xamarin\\WeatherApiApp\\Shared\\WeatherService.cs",
+              "RelativeDocumentMoniker": "Shared\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\Jana\\moje\\programovani\\v\u00FDuka\\Xamarin\\WeatherApiApp\\Shared\\WeatherService.cs",
+              "RelativeToolTip": "Shared\\WeatherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAACiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T14:10:04.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cities_layout.xml",
+              "DocumentMoniker": "C:\\Users\\Jana\\moje\\programovani\\v\u00FDuka\\Xamarin\\WeatherApiApp\\WeatherApiApp\\Resources\\layout\\cities_layout.xml",
+              "RelativeDocumentMoniker": "WeatherApiApp\\Resources\\layout\\cities_layout.xml",
+              "ToolTip": "C:\\Users\\Jana\\moje\\programovani\\v\u00FDuka\\Xamarin\\WeatherApiApp\\WeatherApiApp\\Resources\\layout\\cities_layout.xml",
+              "RelativeToolTip": "WeatherApiApp\\Resources\\layout\\cities_layout.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-02-15T14:10:04.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jana\\moje\\programovani\\v\u00FDuka\\Xamarin\\WeatherApiApp\\Shared\\WeatherModel.cs",
+              "RelativeDocumentMoniker": "Shared\\WeatherModel.cs",
+              "ToolTip": "C:\\Users\\Jana\\moje\\programovani\\v\u00FDuka\\Xamarin\\WeatherApiApp\\Shared\\WeatherModel.cs",
+              "RelativeToolTip": "Shared\\WeatherModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T14:10:04.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Jana\\moje\\programovani\\v\u00FDuka\\Xamarin\\WeatherApiApp\\WeatherApiApp\\MainActivity.cs",
+              "RelativeDocumentMoniker": "WeatherApiApp\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\Jana\\moje\\programovani\\v\u00FDuka\\Xamarin\\WeatherApiApp\\WeatherApiApp\\MainActivity.cs",
+              "RelativeToolTip": "WeatherApiApp\\MainActivity.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowBkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T14:10:04.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CitiesActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Jana\\moje\\programovani\\v\u00FDuka\\Xamarin\\WeatherApiApp\\WeatherApiApp\\CitiesActivity.cs",
+              "RelativeDocumentMoniker": "WeatherApiApp\\CitiesActivity.cs",
+              "ToolTip": "C:\\Users\\Jana\\moje\\programovani\\v\u00FDuka\\Xamarin\\WeatherApiApp\\WeatherApiApp\\CitiesActivity.cs",
+              "RelativeToolTip": "WeatherApiApp\\CitiesActivity.cs",
+              "ViewState": "AQIAACwAAAAAMzMzM7MRwDkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T14:10:04.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "strings.xml",
+              "DocumentMoniker": "C:\\Users\\Jana\\moje\\programovani\\v\u00FDuka\\Xamarin\\WeatherApiApp\\WeatherApiApp\\Resources\\values\\strings.xml",
+              "RelativeDocumentMoniker": "WeatherApiApp\\Resources\\values\\strings.xml",
+              "ToolTip": "C:\\Users\\Jana\\moje\\programovani\\v\u00FDuka\\Xamarin\\WeatherApiApp\\WeatherApiApp\\Resources\\values\\strings.xml",
+              "RelativeToolTip": "WeatherApiApp\\Resources\\values\\strings.xml",
+              "ViewState": "AQIAAAAAAACAzczMzMwHwAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-02-15T14:10:04.465Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 183,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
